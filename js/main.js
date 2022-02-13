@@ -20,7 +20,7 @@
      lname = $("#lname").val();
      body = body + '%0A%0AThanks,%0A' + fname + ' ' + lname
      window.open(
-         'mailto:anuj.bansal16@gmail.com?subject=' + subject + '&body=' + body,
+         'mailto:babursayer@gmail.com?subject=' + subject + '&body=' + body,
          '_blank'
      );
  }

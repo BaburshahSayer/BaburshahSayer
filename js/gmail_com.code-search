@@ -1,0 +1,9 @@
+# Query: gmail.com
+# ContextLines: 1
+
+1 result - 1 file
+
+js/main.js:
+  22       window.open(
+  23:          'mailto:babursayer@gmail.com?subject=' + subject + '&body=' + body,
+  24           '_blank'
